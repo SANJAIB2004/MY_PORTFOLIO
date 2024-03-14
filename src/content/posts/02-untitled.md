@@ -10,7 +10,7 @@ isPublish: true
 
 - ### Master in java in Udemy
 - ### Python Certification in GUVI
-- ### Learn DSA in c and c++ in Udemy
+- ### Learn DSA in c & c++ in Udemy
 - ### SQL Certifications in HackerRank
 
 ## Achievements

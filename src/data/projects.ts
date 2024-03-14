@@ -9,12 +9,12 @@ const projects: Project[] = [
   {
     title: "Talk to Max",
     techs: ["Python", "Tkinter", "SQLite"],
-    link: "https://github.com/MaeWolff/dictionary-app",
+    link: "https://github.com/sanjaib2004",
   },
   {
     title: "Music Management System",
     techs: ["JAVA(JavaFX)", "MongoDB and mysql","Scenebuilder"],
-    link: "https://www.linablidi.fr/",
+    link: "https://github.com/sivasakthi037/Music_Library_Management_System/tree/master",
   },
   {
     title: "Portfolio",
